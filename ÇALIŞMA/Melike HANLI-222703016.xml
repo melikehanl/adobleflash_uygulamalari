@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<okul>
+<ogrenci>
+	<ad>Melike</ad>
+	<soyad>HANLI</soyad>
+	<yas>23</yas>
+	<numara>222703016</numara>
+	<bolum>bilgisayar teknolojileri</bolum>
+	</ogrenci>
+<ogrenci>
+	<ad>Eylul</ad>
+	<soyad>OZ</soyad>
+	<yas>20</yas>
+	<numara>1</numara>
+	<bolum>hemsire</bolum>
+	</ogrenci>
+<ogrenci>
+	<ad>Eda</ad>
+	<soyad>bora</soyad>
+	<yas>19</yas>
+	<numara>2</numara>
+	<bolum>tapu kadastro</bolum>
+	</ogrenci>
+<ogrenci>
+	<ad>Merve</ad>
+	<soyad>secgin</soyad>
+	<yas>20</yas>
+	<numara>3</numara>
+	<bolum>harita muhendisi</bolum>
+	</ogrenci>
+<ogrenci>
+	<ad>belinay</ad>
+	<soyad>kara</soyad>
+	<yas>25</yas>
+	<numara>4</numara>
+	<bolum>uzay muhendisi</bolum>
+	</ogrenci>
+<ogrenci>
+	<ad>zeynep</ad>
+	<soyad>mert</soyad>
+	<yas>20</yas>
+	<numara>5</numara>
+	<bolum>guzellik hizmetleri</bolum>
+	</ogrenci>
+<ogrenci>
+	<ad>beyza</ad>
+	<soyad>nur</soyad>
+	<yas>24</yas>
+	<numara>6</numara>
+	<bolum>edebiyat</bolum>
+	</ogrenci>	
+<ogrenci>
+	<ad>melih</ad>
+	<soyad>can</soyad>
+	<yas>20</yas>
+	<numara>7</numara>
+	<bolum>matematik muhendisi</bolum>
+	</ogrenci>
+<ogrenci>
+	<ad>eren</ad>
+	<soyad>tosun</soyad>
+	<yas>18</yas>
+	<numara>8</numara>
+	<bolum>inşaat muhendisi</bolum>
+	</ogrenci>
+<ogrenci>
+	<ad>furkan</ad>
+	<soyad>talu</soyad>
+	<yas>23</yas>
+	<numara>9</numara>
+	<bolum>elektrik muhendisi</bolum>
+	</ogrenci>	
+</okul>
